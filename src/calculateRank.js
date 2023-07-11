@@ -39,7 +39,7 @@ function calculateRank({
   const STARS_MEDIAN = 50,
     STARS_WEIGHT = 4;
   const FOLLOWERS_MEDIAN = 10,
-    FOLLOWERS_WEIGHT = 1;
+    FOLLOWERS_WEIGHT = 5;
 
   const TOTAL_WEIGHT =
     COMMITS_WEIGHT +
